@@ -1,11 +1,11 @@
-import React from "react";
+// import React from "react";
 import "./MainPage.scss";
 
 const MainPage = (props) => {
   return (
-    <div className="main-page">
+    <div className="MainPage">
       <div className="header">
-        <p className="black-l">
+        <p className="black-l top-blurb">
           LIMITED TIME <span className="red-l">FLASH SALE!</span>
         </p>
         <p className="black-l">
